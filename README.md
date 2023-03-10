@@ -34,8 +34,6 @@ After doing this run the command `npm i && npm start`. This will host a local se
 
 ![](images/img4.png)
 
-![ref]
-
 [ref]: images
 
 
