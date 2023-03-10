@@ -26,6 +26,14 @@ To run this project Clone the repo onto your local computer, then you'll want to
 
 After doing this run the command `npm i && npm start`. This will host a local server for you to run your notes on. To visit this local server go to `localhost:3001` now that you have the note taker on your local host. Click `Get Started` and watch your notes explode into life!
 
+![alt text](images/img1.png "Intro Page to Note Taker")
+
+![](images/img1.png)
+
+![ref]
+
+[ref]: images
+
 For more information on how to add screenshots for examples, visit the following website:
 
 [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
